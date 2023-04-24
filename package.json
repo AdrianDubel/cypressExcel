@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/AdrianDubel/cypressExcel#readme",
   "dependencies": {
-    "cypress": "^12.10.0"
+    "cypress": "^12.10.0",
+    "cypress-downloadfile": "^1.2.3"
   }
 }
